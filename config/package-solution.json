@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "datetimepicker-client-side-solution",
+    "id": "780e917e-8b90-42c6-aaaa-4139b9c8e9af",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/datetimepicker.sppkg"
+  }
+}
